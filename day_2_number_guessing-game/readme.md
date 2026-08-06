@@ -33,3 +33,19 @@ The program generates a random number between 1 and 100, and the player has six 
 - Building interactive console applications
 - Improving problem-solving skills
 - Organizing code using functions
+## Sample Output
+Do you want to play a number guessing game (yes/no): yes
+
+You have total 6 guesses to guess the number between 1 and 100.
+
+Enter your guess between 1 and 100: 30
+Your guess is low, try again.
+Your remaining attempts are 5.
+
+Enter your guess between 1 and 100: 70
+Your guess is high, try again.
+Your remaining attempts are 4.
+
+Enter your guess between 1 and 100: 55
+Congratulations! You have guessed the number correctly.
+On your 3rd attempt.
