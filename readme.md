@@ -23,7 +23,10 @@ After completing my Python fundamentals, I started this challenge to improve my 
 │   ├── percentage_calculator.py
 │   └── README.md
 │
-├── Day-02-...
+├── Day-02-Number-Guessing-Game/
+│   ├── number_guessing_game.py
+│   └── README.md
+|
 ├── Day-03-...
 └── ...
 ```
@@ -39,6 +42,10 @@ A Python program that:
 - Determines the highest and lowest marks
 - Assigns grades based on the calculated percentage
 - Validates user input for marks
+
+### Day 2 – Number Guessing Game
+
+An interactive Python game where the player has six attempts to guess a randomly generated number between 1 and 100. The game provides hints after each guess and displays the difference between the guessed and secret numbers when all attempts are used.
 
 More projects will be added as I continue this challenge.
 
