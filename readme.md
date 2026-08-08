@@ -27,7 +27,10 @@ After completing my Python fundamentals, I started this challenge to improve my 
 │   ├── number_guessing_game.py
 │   └── README.md
 |
-├── Day-03-...
+├── Day-03-rock_paper_scissors/
+│  ├── rock_paper_scissor.py
+│  └── README.md
+├── Day-04-...
 └── ...
 ```
 
@@ -46,6 +49,11 @@ A Python program that:
 ### Day 2 – Number Guessing Game
 
 An interactive Python game where the player has six attempts to guess a randomly generated number between 1 and 100. The game provides hints after each guess and displays the difference between the guessed and secret numbers when all attempts are used.
+
+### Day 3 – Rock Paper Scissors
+
+An interactive Python game where the player competes against the computer for five rounds. The computer randomly selects rock, paper, or scissors, while the program validates the player's input, tracks wins, losses, and draws, and displays the final result at the end.
+
 
 More projects will be added as I continue this challenge.
 
