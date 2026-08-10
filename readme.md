@@ -30,9 +30,11 @@ After completing my Python fundamentals, I started this challenge to improve my 
 ├── Day-03-rock_paper_scissors/
 │  ├── rock_paper_scissor.py
 │  └── README.md
-├── Day-04-...
-└── ...
-```
+├── day_4_to_do_list/
+│  ├── to_do_list.py
+│  └── README.md
+├── day_5../
+│
 
 ## Projects
 
@@ -54,6 +56,9 @@ An interactive Python game where the player has six attempts to guess a randomly
 
 An interactive Python game where the player competes against the computer for five rounds. The computer randomly selects rock, paper, or scissors, while the program validates the player's input, tracks wins, losses, and draws, and displays the final result at the end.
 
+### Day 4 – To-Do List
+
+A console-based Python to-do list application where users can add, view, remove, complete, and clear tasks through a menu-driven interface. The project uses functions and a list to manage tasks interactively.
 
 More projects will be added as I continue this challenge.
 
