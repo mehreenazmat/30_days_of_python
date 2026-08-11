@@ -1,4 +1,13 @@
-#Number guessing game
+"""
+Author: Mehreen
+Project: Number Guessing Game
+
+Day 2 of 30 Days of Python Challenge
+
+This program is an interactive number guessing game
+where the player has six attempts to guess a randomly
+generated number between 1 and 100.
+"""
 import random
 total_number_of_guesses=6
 def guessing_game(number,attempts):

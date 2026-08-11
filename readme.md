@@ -33,8 +33,12 @@ After completing my Python fundamentals, I started this challenge to improve my 
 ├── day_4_to_do_list/
 │  ├── to_do_list.py
 │  └── README.md
+└── day_5_calculator_with_history/ 
+│  ├── calculator.py 
+│  └── README.md
 ├── day_5../
 │
+
 
 ## Projects
 
@@ -59,6 +63,22 @@ An interactive Python game where the player competes against the computer for fi
 ### Day 4 – To-Do List
 
 A console-based Python to-do list application where users can add, view, remove, complete, and clear tasks through a menu-driven interface. The project uses functions and a list to manage tasks interactively.
+
+### Day 5 – Calculator with History
+
+A menu-driven Python calculator that performs different mathematical operations including addition, subtraction, multiplication, division, power, and modulus.
+
+The program also maintains a history of previous calculations and allows users to:
+
+Perform basic mathematical operations
+View calculation history
+Clear calculation history
+Keep a backup of cleared history
+View the backup history
+Handle invalid user input
+Handle division and modulus by zero
+
+This project helped me practice functions, lists, loops, exception handling, global variables, and user input validation.
 
 More projects will be added as I continue this challenge.
 

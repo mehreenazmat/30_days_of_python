@@ -1,4 +1,13 @@
-#Rock,paper,scissors game
+"""
+Author: Mehreen
+Project: Rock Paper Scissors
+
+Day 3 of 30 Days of Python Challenge
+
+This program is an interactive Rock Paper Scissors game
+where the player competes against the computer for five
+rounds and the final results are displayed.
+"""
 import random
 no_of_draws=0
 computer_wins=0

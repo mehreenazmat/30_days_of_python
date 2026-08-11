@@ -1,4 +1,15 @@
-#project for app console
+"""
+Author: Mehreen
+
+Project: To-Do List
+
+Day 4 of 30 Days of Python Challenge
+
+This program is a console-based To-Do List application
+that allows users to add, view, remove, complete,
+and clear tasks through a menu-driven interface.
+"""
+
 tasks=[]
 def add_task():
     global tasks
