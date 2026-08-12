@@ -36,8 +36,11 @@ After completing my Python fundamentals, I started this challenge to improve my 
 └── day_5_calculator_with_history/ 
 │  ├── calculator.py 
 │  └── README.md
-├── day_5../
-│
+├── day_6_encryption_decryption/
+│   ├── encryption_decryption.py
+│   └── README.md../
+├── day_7_.../
+│ 
 
 
 ## Projects
@@ -79,6 +82,10 @@ Handle invalid user input
 Handle division and modulus by zero
 
 This project helped me practice functions, lists, loops, exception handling, global variables, and user input validation.
+
+### Day 6 – Encryption and Decryption of Messages
+
+A console-based Python Secure Message Locker that uses the Caesar Cipher algorithm to encrypt and decrypt messages. The program allows users to choose a custom or randomly generated shift, save encrypted messages, view saved messages, delete them, and recover deleted messages through a backup system.
 
 More projects will be added as I continue this challenge.
 
