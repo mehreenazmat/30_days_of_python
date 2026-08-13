@@ -61,7 +61,7 @@ Make sure Python 3.x is installed on your system.
 Run the program using:
 
 ```bash
-python encryption_decryption.py
+python encryptor_decryptor.py
 ```
 
 ## Learning Outcome
