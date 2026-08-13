@@ -218,7 +218,7 @@ def clear_all_student():
 def menu():
     print("========= STUDENT MANAGEMENT =========\n")
     try:
-        choice=int(input("1. Add Student\n2. View Students\n3. Search Student\n4. Remove Student\n5. Update Student Marks\n6. Show Top Student\n7. Clear All Students\n8. Exit\nEnter your choice: "))
+        choice=int(input("1. Add Student\n2. View Students\n3. Search Student\n4. Remove Student\n5. Update Student Information\n6. Show Top Student\n7. Clear All Students\n8. Exit\nEnter your choice: "))
         if choice==1:
             add_student()
         elif choice==2:
