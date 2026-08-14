@@ -42,7 +42,11 @@ After completing my Python fundamentals, I started this challenge to improve my 
 ├── day_7_student_management_system/
 │   ├── student_management_system.py
 │   └── README.md
-├── day_8_.../
+├── day_8_expense_tracker/
+│   ├── expense_tracker.py
+│   ├── expense.txt
+│   └── README.md
+├── day_9_.../
 │ 
 
 
@@ -93,6 +97,10 @@ A console-based Python Secure Message Locker that uses the Caesar Cipher algorit
 ### Day 7 – Student Management System
 
 A console-based Python Student Management System that allows users to add, view, search, remove, and update student records. The program stores student names, roll numbers, and marks, automatically assigns grades, prevents duplicate roll numbers, validates marks, and identifies students with the highest marks.
+
+### Day 8 – Expense Tracker
+
+A console-based Python Expense Tracker that allows users to add, view, search, and delete expenses stored in a text file. The program also calculates total spending and provides category-wise expense summaries while practicing file handling, lists, dictionaries, validation, and exception handling.
 
 More projects will be added as I continue this challenge.
 
