@@ -46,7 +46,11 @@ After completing my Python fundamentals, I started this challenge to improve my 
 │   ├── expense_tracker.py
 │   ├── expense.txt
 │   └── README.md
-├── day_9_.../
+├── day_9_library_management_system/
+│   ├── library_management_system.py
+│   ├── books.txt
+│   └── README.md
+├── day_10_.../
 │ 
 
 
@@ -101,6 +105,10 @@ A console-based Python Student Management System that allows users to add, view,
 ### Day 8 – Expense Tracker
 
 A console-based Python Expense Tracker that allows users to add, view, search, and delete expenses stored in a text file. The program also calculates total spending and provides category-wise expense summaries while practicing file handling, lists, dictionaries, validation, and exception handling.
+
+### Day 9 – Library Management System
+
+A console-based Python Library Management System that allows users to add, view, search, borrow, return, and delete books. The project uses file handling to store book records permanently and the `datetime` module to track borrowing dates and calculate fines for overdue books.
 
 More projects will be added as I continue this challenge.
 
