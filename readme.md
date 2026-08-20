@@ -50,7 +50,11 @@ After completing my Python fundamentals, I started this challenge to improve my 
 │   ├── library_management_system.py
 │   ├── books.txt
 │   └── README.md
-├── day_10_.../
+├── day_10_contact_manager/
+│   ├── contact_manager.py
+│   ├── contacts.csv
+│   └── README.md
+├── day_11_.../
 │ 
 
 
@@ -109,6 +113,10 @@ A console-based Python Expense Tracker that allows users to add, view, search, a
 ### Day 9 – Library Management System
 
 A console-based Python Library Management System that allows users to add, view, search, borrow, return, and delete books. The project uses file handling to store book records permanently and the `datetime` module to track borrowing dates and calculate fines for overdue books.
+
+### Day 10 – Contact Manager
+
+A console-based Python Contact Manager that stores contact information in a CSV file. The program allows users to add, view, search, edit, delete, sort, and filter contacts while practicing CSV file handling, dictionaries, CRUD operations, sorting, filtering, lambda functions, and input validation.
 
 More projects will be added as I continue this challenge.
 
