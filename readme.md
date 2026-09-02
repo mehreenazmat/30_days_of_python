@@ -54,7 +54,12 @@ After completing my Python fundamentals, I started this challenge to improve my 
 │   ├── contact_manager.py
 │   ├── contacts.csv
 │   └── README.md
-├── day_11_.../
+├── day_11_bank_management_system/
+│   ├── bank_management_system.py
+│   ├── banks.csv
+│   ├── transactions.csv
+│   └── README.md
+├── day_12_.../
 │ 
 
 
@@ -117,6 +122,13 @@ A console-based Python Library Management System that allows users to add, view,
 ### Day 10 – Contact Manager
 
 A console-based Python Contact Manager that stores contact information in a CSV file. The program allows users to add, view, search, edit, delete, sort, and filter contacts while practicing CSV file handling, dictionaries, CRUD operations, sorting, filtering, lambda functions, and input validation.
+
+### Day 11 – Bank Account Manager
+
+A console-based Python bank account management system that uses Object-Oriented Programming (OOP) and CSV file handling. The project allows users to create accounts, deposit and withdraw money, check balances, search accounts, view transaction history, and delete accounts.
+
+This project introduces classes, objects, constructors, instance methods, `self`, CSV data storage, input validation, exception handling, and date/time handling.
+
 
 More projects will be added as I continue this challenge.
 

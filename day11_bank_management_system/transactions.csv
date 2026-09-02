@@ -1,0 +1,3 @@
+account_id,transaction_type,amount,current_balance,date_and_time
+108,deposit,210,1453,2026-09-02 13:58:04
+108,withdraw,210,1243,2026-09-02 13:58:49
