@@ -59,9 +59,13 @@ After completing my Python fundamentals, I started this challenge to improve my 
 │   ├── banks.csv
 │   ├── transactions.csv
 │   └── README.md
-├── day_12_.../
+├── day_12_quiz_management_system/
+│   ├── quiz_management_system.py
+│   ├── questions_file.csv
+│   ├── score_file.csv
+│   └── README.md
+├── day_13_.../
 │ 
-
 
 ## Projects
 
@@ -129,6 +133,9 @@ A console-based Python bank account management system that uses Object-Oriented 
 
 This project introduces classes, objects, constructors, instance methods, `self`, CSV data storage, input validation, exception handling, and date/time handling.
 
+### Day 12 – Quiz Management System
+
+A console-based Python Quiz Management System that allows users to start quizzes, add, view, and delete questions, and view previous quiz scores. The project uses Object-Oriented Programming, CSV file handling, randomization, datetime, input validation, and exception handling.
 
 More projects will be added as I continue this challenge.
 

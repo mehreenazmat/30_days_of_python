@@ -1,0 +1,7 @@
+question,option_a,option_b,option_c,option_d,answer
+What is the correct way to define a function in Python?,function myFunc():,def myFunc():,define myFunc():,func myFunc():,B
+Which data type is used to store multiple values in an ordered collection?,List,Integer,Boolean,Float,A
+Which symbol is used for a comment in Python?,//,/*,#,--,C
+What is the output of 10 // 3?,3.33,3,1,4,B
+Which keyword is used to create a loop over a sequence?,repeat,loop,for,iterate,C
+what is used for commenting in python,#,%,!,/,A
